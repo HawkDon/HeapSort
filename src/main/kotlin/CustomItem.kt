@@ -1,0 +1,1 @@
+data class CustomItem(val id: Int, val name: String)
